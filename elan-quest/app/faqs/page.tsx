@@ -264,7 +264,7 @@ const faqSections: FaqSection[] = [
         id: "day-1",
         question: "When will the exam be conducted?",
         answer: (
-          <>The exam is scheduled for the 1st week of November, 2026.</>
+          <>The exam is scheduled for December 05, 2026.</>
         ),
       },
       {

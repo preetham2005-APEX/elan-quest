@@ -131,7 +131,7 @@ export default function Results() {
               </div>
 
               <div className="flex h-[81px] items-center border-r-2 border-b-2 border-[#092B55] px-[10px]">
-                November 28, 2026
+                December 05, 2026
               </div>
 
               <div className="flex h-[81px] items-center border-x-2 border-b-2 border-[#092B55] px-[10px]">
@@ -207,7 +207,7 @@ export default function Results() {
                 ["Eligibility", "Students from classes 6 - 12"],
                 ["Exam Level", "Intermediate"],
                 ["Application Process", "Via Unstop"],
-                ["Exam Dates", "November 28, 2026"],
+                ["Exam Dates", "December 05, 2026"],
                 ["Exam Mode", "Online"],
                 ["Fee of registration", "₹ 350"],
                 [
@@ -266,8 +266,8 @@ export default function Results() {
 
             <div className="ml-[3px] mt-[28px] font-['Nexa_Text'] text-[32px] font-bold text-black">
               <p>Registration Opens: September 8, 2026</p>
-              <p>Registration Closes: November 22, 2026</p>
-              <p>Quest Olympiad Round 1: November 28, 2026</p>
+              <p>Registration Closes: November 30, 2026</p>
+              <p>Quest Olympiad Round 1: December 05, 2026</p>
               <p>Quest Olympiad Round 2: (Date To Be Announced)</p>
               <p>Prize Distribution: (Date To Be Announced)</p>
             </div>
@@ -311,8 +311,8 @@ export default function Results() {
               "
             >
               <p>Registration Opens: September 8, 2026</p>
-              <p>Registration Closes: November 22, 2026</p>
-              <p>Quest Olympiad Round 1: November 28, 2026</p>
+              <p>Registration Closes: November 30, 2026</p>
+              <p>Quest Olympiad Round 1: December 05, 2026</p>
               <p>Quest Olympiad Round 2: (Date To Be Announced)</p>
               <p>Prize Distribution: (Date To Be Announced)</p>
             </div>

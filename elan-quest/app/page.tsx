@@ -250,7 +250,7 @@ md:text-[clamp(18px,1.6vw,23px)]
                 lg:text-[27px]
               "
             >
-              <strong>Key date:</strong> Round 1 – November last week
+              <strong>Key date:</strong> Round 1 – December 05, 2026
             </p>
 
             <p
@@ -469,12 +469,12 @@ md:text-[clamp(18px,1.6vw,23px)]
 
               <div className="flex flex-col gap-1 border-b border-[#0F2851]/20 pb-3 sm:flex-row sm:justify-between">
                 <span className="font-bold">Registration Closes</span>
-                <span>November 22, 2026</span>
+                <span>November 30, 2026</span>
               </div>
 
               <div className="flex flex-col gap-1 border-b border-[#0F2851]/20 pb-3 sm:flex-row sm:justify-between">
                 <span className="font-bold">Quest Olympiad Round 1</span>
-                <span>November 28, 2026</span>
+                <span>December 05, 2026</span>
               </div>
 
               <div className="flex flex-col gap-1 border-b border-[#0F2851]/20 pb-3 sm:flex-row sm:justify-between">
