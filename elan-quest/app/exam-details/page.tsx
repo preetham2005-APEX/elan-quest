@@ -265,7 +265,7 @@ export default function Results() {
             </h2>
 
             <div className="ml-[3px] mt-[28px] font-['Nexa_Text'] text-[32px] font-bold text-black">
-              <p>Registration Opens: September 8, 2026</p>
+              <p>Registration Opens: October 29, 2026</p>
               <p>Registration Closes: November 30, 2026</p>
               <p>Quest Olympiad Round 1: December 05, 2026</p>
               <p>Quest Olympiad Round 2: (Date To Be Announced)</p>
@@ -310,7 +310,7 @@ export default function Results() {
                 sm:text-[16px]
               "
             >
-              <p>Registration Opens: September 8, 2026</p>
+              <p>Registration Opens: October 29, 2026</p>
               <p>Registration Closes: November 30, 2026</p>
               <p>Quest Olympiad Round 1: December 05, 2026</p>
               <p>Quest Olympiad Round 2: (Date To Be Announced)</p>

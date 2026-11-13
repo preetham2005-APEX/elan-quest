@@ -464,7 +464,7 @@ md:text-[clamp(18px,1.6vw,23px)]
             >
               <div className="flex flex-col gap-1 border-b border-[#0F2851]/20 pb-3 sm:flex-row sm:justify-between">
                 <span className="font-bold">Registration Opens</span>
-                <span>September 8, 2026</span>
+                <span>October 29, 2026</span>
               </div>
 
               <div className="flex flex-col gap-1 border-b border-[#0F2851]/20 pb-3 sm:flex-row sm:justify-between">
